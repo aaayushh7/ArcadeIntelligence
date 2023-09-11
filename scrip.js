@@ -20,7 +20,7 @@ images.forEach((item, i) => {
 })
 
 const updateImage = (i) => {
-    let path = `Pay2.jpeg`;
+    let path = `pay2.jpeg`;
     largeImage.src = path;
     // imageName.innerHTML = path;
     // imageIndex.innerHTML = `0${i+1}`;
