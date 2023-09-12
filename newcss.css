@@ -61,12 +61,13 @@ body {
     letter-spacing: 0.5em;
     display: inline-block;
     /* border: 4px double rgba(248, 242, 242, 0.25); */
+    /* border: 20%; */
     border-width: 4px 0;
     padding: 1.5em 0em;
     position: absolute;
     top: 35%;
     right: 0%;
-    /* width: 40em; */
+    width: 100%;
     /* margin: 0 0 0 -10em; */
 }
 @media screen and (min-width: 1024px) {
