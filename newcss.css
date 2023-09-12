@@ -40,7 +40,7 @@ body {
 .blur-container {
     --blur: 40px;
     filter: blur(var(--blur));
-    height: 100vh;
+    height: 50vh;
     width: 100%;
     display: grid;
     overflow: hidden;
